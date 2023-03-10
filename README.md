@@ -1,1 +1,1 @@
-*My read me file, read it ..or don't!*
+*readme file,read it or don't*
